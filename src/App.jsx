@@ -43,7 +43,7 @@ function App() {
         </SectionWithHeading>
         <SectionWithHeading
           title='Appointment as regent and assassination'
-          level={2}
+          level={3}
         >
           <p>
             Shortly before Theodore II died on 16 August 1258, he left George
